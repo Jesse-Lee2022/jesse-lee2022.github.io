@@ -10,7 +10,7 @@ body{
   
 
 }
-.title-name{background-color: white;}
+.title-name{background-color: red;}
 .header{
   position: fixed;
   display: flex;
@@ -351,5 +351,6 @@ a{
   object-fit: contain;
   padding-right:30px;
 }
+
 
 
